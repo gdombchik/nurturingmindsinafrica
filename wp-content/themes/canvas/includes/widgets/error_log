@@ -1,0 +1,24 @@
+[07-Nov-2013 23:12:43] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-adspace.php on line 24
+[07-Nov-2013 23:12:43] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-flickr.php on line 24
+[07-Nov-2013 23:12:44] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-feedback.php on line 24
+[07-Nov-2013 23:12:46] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-embed.php on line 25
+[07-Nov-2013 23:12:47] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-tabs.php on line 24
+[07-Nov-2013 23:12:48] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-blogauthor.php on line 24
+[07-Nov-2013 23:12:51] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-subscribe.php on line 24
+[07-Nov-2013 23:12:55] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-search.php on line 24
+[11-Feb-2014 21:53:27] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-adspace.php on line 24
+[11-Feb-2014 21:53:28] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-feedback.php on line 24
+[11-Feb-2014 21:53:32] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-blogauthor.php on line 24
+[11-Feb-2014 21:53:34] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-flickr.php on line 24
+[11-Feb-2014 21:53:39] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-embed.php on line 25
+[11-Feb-2014 21:53:40] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-tabs.php on line 24
+[11-Feb-2014 21:53:41] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-search.php on line 24
+[11-Feb-2014 21:53:43] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-subscribe.php on line 24
+[03-Jul-2014 16:11:18 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-adspace.php on line 24
+[03-Jul-2014 16:11:19 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-flickr.php on line 24
+[03-Jul-2014 16:11:21 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-embed.php on line 25
+[03-Jul-2014 16:11:23 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-tabs.php on line 24
+[03-Jul-2014 16:11:24 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-blogauthor.php on line 24
+[03-Jul-2014 16:11:27 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-feedback.php on line 24
+[03-Jul-2014 16:11:28 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-subscribe.php on line 24
+[03-Jul-2014 16:12:06 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/widgets/widget-woo-search.php on line 24

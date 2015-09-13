@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<title>Hompage | nurturingmindsinafricanurturingmindsinafrica</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="pingback" href="http://nurturingmindsinafrica.org/wordpress/xmlrpc.php" />
+<meta name='robots' content='noindex,nofollow' />
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.15 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://nurturingmindsinafrica.org/wordpress/" />
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Hompage - nurturingmindsinafrica"/>
+<meta property="og:description" content="Headlines from our blog"/>
+<meta property="og:url" content="http://nurturingmindsinafrica.org/wordpress/"/>
+<meta property="og:site_name" content="nurturingmindsinafrica"/>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="nurturingmindsinafrica &raquo; Feed" href="http://nurturingmindsinafrica.org/wordpress/feed/" />
+<link rel="alternate" type="application/rss+xml" title="nurturingmindsinafrica &raquo; Comments Feed" href="http://nurturingmindsinafrica.org/wordpress/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="nurturingmindsinafrica &raquo; Hompage Comments Feed" href="http://nurturingmindsinafrica.org/wordpress/hompage/feed/" />
+<style type="text/css">
+@media only screen and (min-width: 768px) {
+body.two-col-right-1020 #main-sidebar-container { width: 100%; }
+body.two-col-right-1020 #main-sidebar-container #sidebar { width: 27.385%; }
+body.two-col-right-1020 #main-sidebar-container #main { width: 70.385%; }
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://nurturingmindsinafrica.org/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woodojo_tabs-css'  href='http://nurturingmindsinafrica.org/wordpress/wp-content/plugins/woodojo/bundled/woodojo-tabs/assets/css/style.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-stylesheet-css'  href='http://nurturingmindsinafrica.org/wordpress/wp-content/themes/nminds/style.css?ver=5.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='http://nurturingmindsinafrica.org/wordpress/wp-content/themes/canvas/css/layout.css?ver=3.6.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link href="http://nurturingmindsinafrica.org/wordpress/wp-content/themes/canvas/css/non-responsive.css" rel="stylesheet" type="text/css" />
+<style type="text/css">.col-full, #wrapper { width: 1020px; max-width: 1020px; } #inner-wrapper { padding: 0; } body.full-width #header, #nav-container, body.full-width #content, body.full-width #footer-widgets, body.full-width #footer { padding-left: 0; padding-right: 0; } body.fixed-mobile #top, body.fixed-mobile #header-container, body.fixed-mobile #footer-container, body.fixed-mobile #nav-container, body.fixed-mobile #footer-widgets-container { min-width: 1020px; padding: 0 1em; } body.full-width #content { width: auto; padding: 0 1em;}</style>
+<![endif]-->
+<style type="text/css">.col-full, #wrapper { width: 1020px; max-width: 1020px; } #inner-wrapper { padding: 0; } body.full-width #header, #nav-container, body.full-width #content, body.full-width #footer-widgets, body.full-width #footer { padding-left: 0; padding-right: 0; } body.fixed-mobile #top, body.fixed-mobile #header-container, body.fixed-mobile #footer-container, body.fixed-mobile #nav-container, body.fixed-mobile #footer-widgets-container { min-width: 1020px; padding: 0 1em; } body.full-width #content { width: auto; padding: 0 1em;}</style>
+<script type='text/javascript' src='http://nurturingmindsinafrica.org/wordpress/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://nurturingmindsinafrica.org/wordpress/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://nurturingmindsinafrica.org/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://nurturingmindsinafrica.org/wordpress/wp-content/plugins/woodojo/bundled/woodojo-tabs/assets/js/functions.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://nurturingmindsinafrica.org/wordpress/wp-content/themes/canvas/includes/js/third-party.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://nurturingmindsinafrica.org/wordpress/wp-content/themes/canvas/includes/js/modernizr.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://nurturingmindsinafrica.org/wordpress/wp-content/themes/canvas/includes/js/jquery.flexslider.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://nurturingmindsinafrica.org/wordpress/wp-content/themes/canvas/includes/js/general.js?ver=3.6.1'></script>
+
+<!-- Adjust the website width -->
+<style type="text/css">
+	.col-full, #wrapper { max-width: 1020px !important; }
+</style>
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nurturingmindsinafrica.org/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nurturingmindsinafrica.org/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+<!-- Theme version -->
+<meta name="generator" content="nminds " />
+<meta name="generator" content="Canvas 5.3.0" />
+<meta name="generator" content="WooFramework 5.5.5" />
+
+<!-- Custom CSS Styling -->
+<style type="text/css">
+#logo .site-title, #logo .site-description { display:none; }
+body {background-repeat:no-repeat;background-position:top left;background-attachment:scroll;border-top:0px solid #000000;}
+a:link, a:visited {color:#ee7216}
+a:hover, .post-more a:hover, .post-meta a:hover, .post p.tags a:hover {color:#ee7216}
+body #wrapper #content .button, body #wrapper #content .button:visited, body #wrapper #content .reply a, body #wrapper #content #respond .form-submit input#submit, input[type=submit] {border: none; background:#50006f}
+body #wrapper #content .button:hover, body #wrapper #content .reply a:hover, body #wrapper #content #respond .form-submit input#submit:hover, input[type=submit]:hover {border: none; background:#50006f}
+#header {background-image:url(http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/04/top-banner-background.png);background-repeat:no-repeat;background-position:left top;margin-top:20px;margin-bottom:0px;padding-top:20px;padding-bottom:0px;border:0px solid ;}
+#logo .site-title a {font:bold 40px/1em "Helvetica Neue", Helvetica, sans-serif;color:#222222;}
+#logo .site-description {font:300 13px/1em "Helvetica Neue", Helvetica, sans-serif;color:#999999;}
+body, p { font:300 14px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+h1 { font:normal 29px/1.2em 'Architects Daughter', arial, sans-serif;color:#50006f; }h2 { font:bold 20px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#ee7216; }h3 { font:bold 15px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#50006f; }h4 { font:bold 14px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#564b44; }h5 { font:bold 13px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#564b44; }h6 { font:bold 12px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#564b44; }
+.page-title, .post .title, .page .title {font:bold 15px/1.1em "Helvetica Neue", Helvetica, sans-serif;color:#50006f;}
+.post .title a:link, .post .title a:visited, .page .title a:link, .page .title a:visited {color:#50006f}
+.post-meta { font:300 12px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+.entry, .entry p{ font:normal 14px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#564b44; }
+.post-more {font:normal 11px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:ee7216;border-top:0px solid #e6e6e6;border-bottom:0px solid #e6e6e6;}
+#post-author, #connect {border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;border-left:1px solid #e6e6e6;border-right:1px solid #e6e6e6;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;background-color:#fafafa}
+.nav-entries a, .woo-pagination { font:300 13px/1em "Helvetica Neue", Helvetica, sans-serif;color:#888; }
+.woo-pagination a, .woo-pagination a:hover {color:#888!important}
+.widget h3 {font:bold 14px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#555555;border-bottom:0px solid #e6e6e6;margin-bottom:0;}
+.widget_recent_comments li, #twitter li { border-color: #e6e6e6;}
+.widget p, .widget .textwidget { font:300 13px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+.widget {font:300 13px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555;border-radius:1px;-moz-border-radius:1px;-webkit-border-radius:1px;}
+#tabs .inside li a, .widget_woodojo_tabs .tabbable .tab-pane li a { font:bold 12px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#555555; }
+#tabs .inside li span.meta, .widget_woodojo_tabs .tabbable .tab-pane li span.meta { font:300 11px/1.5em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+#tabs ul.wooTabs li a, .widget_woodojo_tabs .tabbable .nav-tabs li a { font:300 11px/2em "Helvetica Neue", Helvetica, sans-serif;color:#999999; }
+@media only screen and (min-width:768px) {
+ul.nav li a, #navigation ul.rss a, #navigation .cart-contents, #navigation ul.rss { font:normal 12px/1em "Helvetica Neue", Helvetica, sans-serif;color:#50006f; } #navigation ul.rss li a:before { color:#50006f;}
+#navigation ul.nav > li a:hover, #navigation ul.nav > li:hover a, #navigation ul.nav li ul li a { color:#50006f!important; }
+#navigation ul.nav > li a:hover, #navigation ul.nav > li:hover, #navigation ul.nav li ul {background-color: #fbf5d8!important}
+#navigation ul.nav li ul  { border: 1px solid #dbdbdb; }
+#navigation ul.nav > li  { border-right: 0px solid #dbdbdb; }#navigation ul.nav > li > ul  { left: 0; }
+#navigation ul.nav li.current_page_item a, #navigation ul.nav li.current_page_parent a, #navigation ul.nav li.current-menu-ancestor a, #navigation ul.nav li.current-cat a, #navigation ul.nav li.current-menu-item a { background-color:#ee7216; }
+#navigation ul.nav li.current_page_item a, #navigation ul.nav li.current_page_parent a, #navigation ul.nav li.current-menu-ancestor a, #navigation ul.nav li.current-cat a, #navigation ul.nav li.current-menu-item a { color:#fbf5d8; }
+#navigation ul li:first-child, #navigation ul li:first-child a { border-radius:1px 0 0 1px; -moz-border-radius:1px 0 0 1px; -webkit-border-radius:1px 0 0 1px; }
+#navigation {background:#ee7216;border-top:1px solid #dbdbdb;border-bottom:1px solid #dbdbdb;border-left:1px solid #dbdbdb;border-right:1px solid #dbdbdb;border-radius:1px; -moz-border-radius:1px; -webkit-border-radius:1px;}
+#top ul.nav li a { font:300 12px/1.6em "Helvetica Neue", Helvetica, sans-serif;color:#ddd; }
+}
+#footer, #footer p { font:normal 11px/1.4em "Helvetica Neue", Helvetica, sans-serif;color:#564b44; }
+#footer {border-top:1px solid #dbdbdb;border-bottom:0px solid ;border-left:0px solid ;border-right:0px solid ;border-radius:1px; -moz-border-radius:1px; -webkit-border-radius:1px;}
+.magazine #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.magazine #loopedSlider .content .excerpt p { font:300 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.magazine .block .post .title, .magazine .block .post .title a { font:bold 18px/1.2em "Helvetica Neue", Helvetica, sans-serif;color:#222222; }
+.business #loopedSlider .content h2 { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+.business #loopedSlider .content h2.title a { font:bold 24px/1em Arial, sans-serif;color:#ffffff; }
+#wrapper .business #loopedSlider .content p { font:300 13px/1.5em Arial, sans-serif;color:#cccccc; }
+.archive_header { font:bold 40px/1em 'Architects Daughter', arial, sans-serif;color:#50006f; }
+.archive_header {border-bottom:0px solid #e6e6e6;}
+</style>
+
+<!-- Custom Favicon -->
+<link rel="shortcut icon" href="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/04/nm_favicon-16x16.png"/>
+
+<!-- Woo Shortcodes CSS -->
+<link href="http://nurturingmindsinafrica.org/wordpress/wp-content/themes/canvas/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="http://nurturingmindsinafrica.org/wordpress/wp-content/themes/canvas/custom.css" rel="stylesheet" type="text/css" />
+
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet" type="text/css" />
+	<!-- Woo Slider Setup -->
+	<script type="text/javascript">
+	jQuery(window).load(function() {
+		var args = {};
+		args.useCSS = false;
+		args.animation = 'slide';		
+		args.slideshow = true;
+				
+		args.slideshowSpeed = 6000;		
+		args.animationSpeed = 800;		
+		args.controlNav = true;
+				
+		args.pauseOnHover = true;
+				
+				args.manualControls = '.pagination-wrap .flex-control-nav > li';
+		args.start = function ( slider ) {
+			slider.next( '.slider-pagination' ).fadeIn();
+		}
+
+		jQuery( '.woo-slideshow' ).each( function ( i ) {
+			jQuery( this ).flexslider( args );
+			jQuery( this ) .find( 'a.flex-prev, a.flex-next' ).addClass( 'icon' );
+		});
+	});
+	</script>
+	<!-- /Woo Slider Setup -->
+	</head>
+<body class="home page page-id-35 page-template page-template-template-biz-php safari iphone alt-style-default fixed-mobile two-col-right width-1020 two-col-right-1020">
+<div id="wrapper">
+
+	<div id="inner-wrapper">
+
+	<h3 class="nav-toggle icon"><a href="#navigation">Navigation</a></h3>
+
+	<header id="header" class="col-full">
+
+		<div id="logo">
+<a href="http://nurturingmindsinafrica.org/wordpress/" title="Educationing Girls in Tanzania"><img src="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/04/logo1.png" alt="nurturingmindsinafrica" /></a>
+<h1 class="site-title"><a href="http://nurturingmindsinafrica.org/wordpress/">nurturingmindsinafrica</a></h1>
+<span class="site-description">Educationing Girls in Tanzania</span>
+</div>
+<div style="float:right; margin-right:40px;"> <a title="Find Nurturing MInds on facebook" href="https://www.facebook.com/NurturingMinds" target="_blank"><img class="size-full wp-image-357 alignright" style="margin-left: 10px;" title="Find us on Facebool" alt="Find Nurturing Minds on Facebook" src="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/04/facebook-icon.png" width="22" height="21" /></a>
+
+<a title="General News" href="http://50.87.144.25/~seganm/wordpress/category/general-news/"><img class="size-full wp-image-358 alignright" alt="Nurturing MInds - See our blog" src="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/04/blog-icon.png" width="22" height="21" /></a>
+
+<a title="Donate" target="_blank" href="https://donatenow.networkforgood.org/NurturingMinds?code=Website"><img class="size-full wp-image-356 alignright" style="clear: both;" alt="Donate to Nurturing Minds" src="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/04/doante-button.png" width="158" height="52" /></a></div>
+	</header>
+	<nav id="navigation" class="col-full" role="navigation">
+
+	<section class="menus">
+
+	<div  id="drop-shadow" style="background-image:url('http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/08/dropshadow.png');background-repeat:repeat-x;background-color:#000000;"></div>
+	<a href="http://nurturingmindsinafrica.org/wordpress" class="nav-home"><span>Home</span></a>
+
+	<h3>top menu</h3><ul id="main-nav" class="nav fl"><li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-35 current_page_item menu-item-39"><a href="http://nurturingmindsinafrica.org/wordpress/">Home</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://nurturingmindsinafrica.org/wordpress/who-we-are/">Who We Are</a>
+<ul class="sub-menu">
+	<li id="menu-item-737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-737"><a href="http://50.87.144.25/~seganm/wordpress/who-we-are">Who We Are</a></li>
+	<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="http://nurturingmindsinafrica.org/wordpress/mission-story/">Mission &#038; Story</a></li>
+	<li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a href="http://nurturingmindsinafrica.org/wordpress/board-advisors/">Board &#038; Advisors</a></li>
+	<li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a href="http://nurturingmindsinafrica.org/wordpress/sega/">SEGA</a></li>
+	<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="http://nurturingmindsinafrica.org/wordpress/reports/">Reports</a></li>
+	<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="http://nurturingmindsinafrica.org/wordpress/friends/">Friends</a></li>
+</ul>
+</li>
+<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="http://nurturingmindsinafrica.org/wordpress/sega-girls-school/">Sega Girls School</a>
+<ul class="sub-menu">
+	<li id="menu-item-239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-239"><a href="http://50.87.144.25/~seganm/wordpress/sega-girls-school">Sega Girls School</a></li>
+	<li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-200"><a href="http://nurturingmindsinafrica.org/wordpress/why-girls/">Why Girls</a></li>
+	<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="http://nurturingmindsinafrica.org/wordpress/location/">Location</a></li>
+	<li id="menu-item-233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a href="http://nurturingmindsinafrica.org/wordpress/student-selection/">Student Selection</a></li>
+	<li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="http://nurturingmindsinafrica.org/wordpress/education/">Education</a></li>
+	<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="http://nurturingmindsinafrica.org/wordpress/student-sponsorship/">Student Sponsorship</a></li>
+	<li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="http://nurturingmindsinafrica.org/wordpress/eco-friendly/">Eco Friendly</a></li>
+</ul>
+</li>
+<li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="http://nurturingmindsinafrica.org/wordpress/impact/">Impact</a>
+<ul class="sub-menu">
+	<li id="menu-item-240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240"><a href="http://50.87.144.25/~seganm/wordpress/impact">Impact</a></li>
+	<li id="menu-item-266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266"><a href="http://50.87.144.25/~seganm/wordpress/education">Education</a></li>
+	<li id="menu-item-264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-264"><a href="http://50.87.144.25/~seganm/wordpress/sustainability">Self-Sustainability</a></li>
+	<li id="menu-item-265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-265"><a href="http://50.87.144.25/~seganm/wordpress/mission-story">Mission &#038; Story</a></li>
+</ul>
+</li>
+<li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="http://nurturingmindsinafrica.org/wordpress/sustainability/">Sustainability</a>
+<ul class="sub-menu">
+	<li id="menu-item-241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-241"><a href="http://50.87.144.25/~seganm/wordpress/sustainability">Self-Sustainability</a></li>
+	<li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="http://nurturingmindsinafrica.org/wordpress/poultry-farm/">Poultry Farm</a></li>
+</ul>
+</li>
+<li id="menu-item-244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-244"><a href="http://50.87.144.25/~seganm/wordpress/donate">Donate</a></li>
+<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://nurturingmindsinafrica.org/wordpress/how-to-help/">How To Help</a>
+<ul class="sub-menu">
+	<li id="menu-item-242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-242"><a href="http://50.87.144.25/~seganm/wordpress/how-to-help">How To Help</a></li>
+	<li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194"><a href="http://nurturingmindsinafrica.org/wordpress/donate/">Donate</a></li>
+	<li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="http://nurturingmindsinafrica.org/wordpress/join-us/">Join Us</a></li>
+	<li id="menu-item-263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="http://nurturingmindsinafrica.org/wordpress/school-partnership/">School Partnership</a></li>
+	<li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="http://nurturingmindsinafrica.org/wordpress/visit-or-volunteer/">Visit or Volunteer</a></li>
+</ul>
+</li>
+<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-330"><a href="http://50.87.144.25/~seganm/wordpress/category/general-news/">Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-268"><a href="http://nurturingmindsinafrica.org/wordpress/category/general-news/">General News</a></li>
+	<li id="menu-item-271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-271"><a href="http://nurturingmindsinafrica.org/wordpress/category/school-news/">Sega School News</a></li>
+	<li id="menu-item-267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-267"><a href="http://nurturingmindsinafrica.org/wordpress/category/colorado/">Colorado</a></li>
+	<li id="menu-item-269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-269"><a href="http://nurturingmindsinafrica.org/wordpress/category/northeast/">Northeast</a></li>
+	<li id="menu-item-905" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-905"><a href="http://nurturingmindsinafrica.org/wordpress/category/philadelphia/">Philadelphia</a></li>
+	<li id="menu-item-272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-272"><a href="http://nurturingmindsinafrica.org/wordpress/category/washington-dc/">Washington DC</a></li>
+</ul>
+</li>
+<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="http://nurturingmindsinafrica.org/wordpress/contact/">Contact</a></li>
+</ul>	</section><!-- /.menus -->
+
+	<a href="#top" class="nav-close"><span>Return to Content</span></a>
+
+</nav>
+    <!-- #content Starts -->
+	<div  id="drop-shadow" style="margin-top:-42px; width:1020px;height:3px;background-image:url('http://golins.com/nminds/wp-content/uploads/2013/08/shadow.png'); background-repeat:repeat-x;"></div>    <div id="content" class="col-full business">
+
+    	<div id="main-sidebar-container">
+
+			<div id="loopedSlider" class="has-pagination woo-slideshow" style="height:378px;">
+<ul class="slides" style="height:378px;">
+<li id="slide-5" class="slide slide-number-1" style="">
+<a href="http://50.87.144.25/~seganm/wordpress/who-we-are" title="Educating and empowering vulnerable Tanzanian girls"><img src="http://nurturingmindsinafrica.org/wordpress/wp-content/uploads/2013/04/slide-1-girl.png" alt="Nurturing Minds"  width="1020"  class="woo-image" /></a>
+<div class="content">
+<div class="excerpt"><h1>Change our World, Educate a Girl</h1>
+<p>Educating and empowering vulnerable Tanzanian girls... <a title="Who We Are" href="http://50.87.144.25/~seganm/wordpress/who-we-are/">Learn More</a></p>
+</div>
+</div>
+</li>
+<li id="slide-7" class="slide slide-number-2" style="width: 1020px; display:none;">
+<a href="http://50.87.144.25/~seganm/wordpress/video-sega-girls-school--2012" title="Giving girls a voice"><img src="http://nurturingmindsinafrica.org/wordpress/wp-content/uploads/2013/04/slide2-video.jpg" alt="Giving Girls a Voice"  width="1020"  class="woo-image" /></a>
+<div class="content">
+<div class="excerpt"><h1 >Giving Girls a Voice</h1>
+<p><a title="Video1" href="http://50.87.144.25/~seganm/wordpress/video-sega-girls-school--2012/">Click here to watch our video</a></p>
+</div>
+</div>
+</li>
+<li id="slide-121" class="slide slide-number-3" style="width: 1020px; display:none;">
+<a href="http://50.87.144.25/~seganm/wordpress/donate" title="You can make a difference"><img src="http://nurturingmindsinafrica.org/wordpress/wp-content/uploads/2013/04/FINAL_NM_home_BigSlideTemplate_slide3.jpg" alt="Make a Difference"  width="1020"  class="woo-image" /></a>
+<div class="content">
+<div class="excerpt"><h1 >You Can Make a Difference</h1>
+<p>96 cents of every $ goes directly to the Sega Girls School... <a title="Donate" href="http://50.87.144.25/~seganm/wordpress/donate/">Donate Now</a></p>
+</div>
+</div>
+</li>
+<li id="slide-139" class="slide slide-number-4" style="width: 1020px; display:none;">
+<a href="http://50.87.144.25/~seganm/wordpress/student-sponsorship" title="Meet Subira"><img src="http://nurturingmindsinafrica.org/wordpress/wp-content/uploads/2013/04/slide4-meet-student.jpg" alt="Meet Sega Student Subira"  width="1020"  class="woo-image" /></a>
+<div class="content">
+<div class="excerpt"><h1>Meet Subira </h1>
+<p>“I promise to work very hard and take advantage of the wonderful opportunity Sega has given me.” <a title="Student Sponsorshop" href="http://50.87.144.25/~seganm/wordpress/student-sponsorship/">Read more</a> </p>
+</div>
+</div>
+</li>
+<li id="slide-727" class="slide slide-number-5" style="width: 1020px; display:none;">
+<a href="http://50.87.144.25/~seganm/wordpress/sustainability" title="School-run businesses"><img src="http://nurturingmindsinafrica.org/wordpress/wp-content/uploads/2013/08/FINAL_NM_home_BigSlideTemplate_slide5.jpg" alt="Sustainability"  width="1020"  class="woo-image" /></a>
+<div class="content">
+<div class="excerpt"><h1>School-Run Businesses</h1>
+<p>for sustainability and to teach practical business skills... <a title="Sustainability" href="http://50.87.144.25/~seganm/wordpress/sustainability/">Read more</a></p>
+</div>
+</div>
+</li>
+</ul><!-- /.slides -->
+</div><!-- /#loopedSlider -->
+<div class="pagination-wrap slider-pagination"><ol class="flex-control-nav flex-control-paging"><li><a>1</a></li><li><a>2</a></li><li><a>3</a></li><li><a>4</a></li><li><a>5</a></li></ol></div>            <!-- #main Starts -->
+            <div style="margin-left:40px; margin-top:-30px;"><div style="float:left;margin-right:20px;"><a title="Who We Are" href="http://golins.com/nminds/who-we-are/"><img class="size-full wp-image-352 alignnone" title="Who We Are" alt="Nurturing Minds - Who We Are" src="http://golins.com/nminds/wp-content/uploads/2013/08/home-who-we-are-architect.png" width="300" height="167" /></a></div><div style="float:left; margin-right:20px;"> <a title="Impact" href="http://golins.com/nminds/impact/"><img class="size-full wp-image-353 alignnone" title="Impact" alt="Nurturing Minds - Impact" src="http://golins.com/nminds/wp-content/uploads/2013/08/home-impact-architect.png" width="300" height="167" /></a></div><div style="float:left;"><a title="How To Help" href="http://golins.com/nminds/how-to-help/"><img class="alignnone size-full wp-image-354" title="How to Help" alt="Nurturing Minds - How to Help" src="http://golins.com/nminds/wp-content/uploads/2013/08/home-how-to-help-architect.png" width="300" height="167" /></a></div><div style="margin-bottom:40px;"></div>            <section id="main">
+<article class="post-35 page type-page status-publish hentry">
+	<section class="entry">
+	    <h1>Headlines from our blog</h1>
+	</section><!-- /.entry -->
+	<div class="fix"></div>
+</article><!-- /.post -->
+<article class="post-917 post type-post status-publish format-standard hentry category-featured category-general-news category-school-news">
+<a href="http://nurturingmindsinafrica.org/wordpress/meg-saligman-on-fox-news/"  title="Meg Saligman on FOX News"><img src="http://nurturingmindsinafrica.org/wordpress/wp-content/uploads/2013/09/mural-1-100x100.jpg" alt=""  width="100"  height="100"  class="woo-image thumbnail alignleft" /></a>	<header>
+	<h2 class="title"><a href="http://nurturingmindsinafrica.org/wordpress/meg-saligman-on-fox-news/" rel="bookmark" title="Meg Saligman on FOX News">Meg Saligman on FOX News</a></h2>	</header>
+<div class="post-meta"><span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://nurturingmindsinafrica.org/wordpress/author/marion/" title="Posts by Nurturing Minds" rel="author">Nurturing Minds</a></span></span> <span class="small">on</span> <abbr class="date time published" title="2013-09-20T17:40:52-0400">September 20, 2013</abbr>  <span class="small">in</span> <span class="categories"><a href="http://nurturingmindsinafrica.org/wordpress/category/featured/" title="View all posts in Featured">Featured</a>, <a href="http://nurturingmindsinafrica.org/wordpress/category/general-news/" title="View all posts in General News">General News</a>, <a href="http://nurturingmindsinafrica.org/wordpress/category/school-news/" title="View all posts in Sega School News">Sega School News</a></span>  </div>
+	<section class="entry">
+<p>Meg Saligman talked about her experience painting the mural on the water tower at Sega Girls School with FOX News. Award winning muralist, Meg Saligman, known for her large scale site-specific work, visited the Sega Girls School with her family in August, and worked with the Sega students to paint a mural on the water [&hellip;]</p>
+	</section><!-- /.entry -->
+	<div class="fix"></div>
+</article><!-- /.post -->
+	<div class="post-more">
+		<span class="read-more"><a href="http://nurturingmindsinafrica.org/wordpress/meg-saligman-on-fox-news/" title="Continue Reading">Continue Reading</a></span>  	</div>
+<article class="post-1492 post type-post status-publish format-standard hentry category-colorado category-featured category-general-news">
+	<header>
+	<h2 class="title"><a href="http://nurturingmindsinafrica.org/wordpress/5th-annual-african-evening-boulder-co/" rel="bookmark" title="5th Annual African Evening in Boulder, CO">5th Annual African Evening in Boulder, CO</a></h2>	</header>
+<div class="post-meta"><span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://nurturingmindsinafrica.org/wordpress/author/marion/" title="Posts by Nurturing Minds" rel="author">Nurturing Minds</a></span></span> <span class="small">on</span> <abbr class="date time published" title="2013-09-20T17:38:44-0400">September 20, 2013</abbr>  <span class="small">in</span> <span class="categories"><a href="http://nurturingmindsinafrica.org/wordpress/category/colorado/" title="View all posts in Colorado">Colorado</a>, <a href="http://nurturingmindsinafrica.org/wordpress/category/featured/" title="View all posts in Featured">Featured</a>, <a href="http://nurturingmindsinafrica.org/wordpress/category/general-news/" title="View all posts in General News">General News</a></span>  </div>
+	<section class="entry">
+<p>Jua Linakuja &#8211; Here Comes The Sun The Rocky Mountain Chapter of Nurturing Minds in hosting its 5th Annual African Evening on Saturday November 9, 2013, at the Boulder Country Club from 6:00 &#8211; 11:00 pm. Please save the date in your calendar to join them for dinner,</p>
+	</section><!-- /.entry -->
+	<div class="fix"></div>
+</article><!-- /.post -->
+	<div class="post-more">
+		<span class="read-more"><a href="http://nurturingmindsinafrica.org/wordpress/5th-annual-african-evening-boulder-co/" title="Continue Reading">Continue Reading</a></span>  	</div>
+<article class="post-326 post type-post status-publish format-standard hentry category-featured category-general-news category-northeast">
+<a href="http://nurturingmindsinafrica.org/wordpress/general-news-1/"  title="African party in Newton, MA"><img src="http://nurturingmindsinafrica.org/wordpress/wp-content/uploads/2013/07/Here-Comes-the-Sun-100x100.jpg" alt=""  width="100"  height="100"  class="woo-image thumbnail alignleft" /></a>	<header>
+	<h2 class="title"><a href="http://nurturingmindsinafrica.org/wordpress/general-news-1/" rel="bookmark" title="African party in Newton, MA">African party in Newton, MA</a></h2>	</header>
+<div class="post-meta"><span class="small">By</span> <span class="author vcard"><span class="fn"><a href="http://nurturingmindsinafrica.org/wordpress/author/marion/" title="Posts by Nurturing Minds" rel="author">Nurturing Minds</a></span></span> <span class="small">on</span> <abbr class="date time published" title="2013-07-16T15:56:18-0400">July 16, 2013</abbr>  <span class="small">in</span> <span class="categories"><a href="http://nurturingmindsinafrica.org/wordpress/category/featured/" title="View all posts in Featured">Featured</a>, <a href="http://nurturingmindsinafrica.org/wordpress/category/general-news/" title="View all posts in General News">General News</a>, <a href="http://nurturingmindsinafrica.org/wordpress/category/northeast/" title="View all posts in Northeast">Northeast</a></span>  </div>
+	<section class="entry">
+<p>Here Comes The Sun The Northeast chapter of Nurturing Minds will be hosting its 4th Annual African Evening on Saturday November 2 at the DeCordova Sculpture Park and Museum from 7:00 pm to 11:00 pm. Read further to purchase tickets, ads in our program booklet or to make a donation to this event. Please join [&hellip;]</p>
+	</section><!-- /.entry -->
+	<div class="fix"></div>
+</article><!-- /.post -->
+	<div class="post-more">
+		<span class="read-more"><a href="http://nurturingmindsinafrica.org/wordpress/general-news-1/" title="Continue Reading">Continue Reading</a></span>  	</div>
+            </section><!-- /#main -->
+            
+			<aside id="sidebar">
+<div id="black-studio-tinymce-7" class="widget widget_black_studio_tinymce"><h3>Join Our Mailing List</h3>			<div class="textwidget"><div class="wpcf7" id="wpcf7-f376-w1-o1"><form action="/wordpress/#wpcf7-f376-w1-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="376" />
+<input type="hidden" name="_wpcf7_version" value="3.4.2" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f376-w1-o1" />
+<input type="hidden" name="_wpnonce" value="7d20efa198" />
+</div>
+<p>
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="30" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" placeholder="your name" /></span> </p>
+<p>
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="30" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" placeholder="your email" /></span> </p>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit button" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		</div></aside><!-- /#sidebar -->
+
+		</div><!-- /#main-sidebar-container -->
+
+		
+    </div><!-- /#content -->
+	
+<section id="footer-widgets" class="col-full col-4">
+				<div class="block footer-widget-1">
+    	<div id="black-studio-tinymce-2" class="widget widget_black_studio_tinymce"><h3>Get to Know Us</h3>			<div class="textwidget"><p style="float: left; margin-top: 3px;"><a href="http://50.87.144.25/~seganm/wordpress/category/general-news/"><img class="size-full wp-image-358 alignleft" alt="Nurturing MInds - See our blog" src="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/04/blog-icon.png" width="22" height="21" /></a> </p>
+<div style="float: left: margin-left; padding-top: 6px;"><a href="http://50.87.144.25/~seganm/wordpress/category/general-news/">Blog</a></div>
+<div style="clear: both;">
+<p style="margin-top: -10px;"><a href="https://www.facebook.com/NurturingMinds" target="_blank"><img class="size-full wp-image-357 alignleft" alt="Like our facebook page" src="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/04/facebook-icon.png" width="22" height="21" /> </a></p>
+<div style="float: left: margin-left:5px; padding-top: 4px;"><a href="https://www.facebook.com/NurturingMinds" target="_blank">Facebook</a></div>
+</div></div>
+		</div>	</div>
+        				<div class="block footer-widget-2">
+    	<div id="black-studio-tinymce-3" class="widget widget_black_studio_tinymce"><h3>Connect</h3>			<div class="textwidget"><p><div class="twocol-one"><strong>USA:</strong><br />Nikki Shearman<br />Executive Director<br />(617) 969-1950<br /><a title="Contact" href="http://50.87.144.25/~seganm/wordpress/contact/">Send us an email</a></p>
+<p>Nurturing Minds, Inc<br />P.O. Box 144<br />Valley Forge, PA 19481</p>
+</div> <div class="twocol-one last">
+<p><strong>Tanzania:</strong> <br />Polly Dolan, <br />Founder/Program Director<br />+255 (772) 383-288<br /><a title="Contact" href="http://50.87.144.25/~seganm/wordpress/contact/">Send us an email</a></p>
+<p><strong>Australia:</strong><br />Fran Bruty<br />+61 43972-4464<br /><a title="Send us an email" href="http://50.87.144.25/~seganm/wordpress/contact/">Send us an email</a></p>
+</div> </p></div>
+		</div>	</div>
+        				<div class="block footer-widget-3">
+    	<div id="black-studio-tinymce-4" class="widget widget_black_studio_tinymce"><h3>Partners</h3>			<div class="textwidget"><p><a href="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/08/USAid_NM.png"><img class="alignnone size-full wp-image-378" alt="USAid_NM" src="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/08/USAid_NM.png" width="144" height="43" /></a></p>
+<p><a href="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/08/cfc.png"><img alt="cfc" src="http://50.87.144.25/~seganm/wordpress/wp-content/uploads/2013/08/cfc.png" width="95" height="52" /></a></p>
+<p>CFC Membership #64595</p></div>
+		</div>	</div>
+        				<div class="block footer-widget-4">
+    	<div id="black-studio-tinymce-5" class="widget widget_black_studio_tinymce"><h3>Get Involved</h3>			<div class="textwidget"><p><a title="Donate" href="http://50.87.144.25/~seganm/wordpress/donate/">Donate</a> </p>
+<p><a title="How To Help" href="http://50.87.144.25/~seganm/wordpress/how-to-help/">How to Help<br /></a></p></div>
+		</div>	</div>
+        		<div class="fix"></div>
+</section><!--/#footer-widgets-->
+	<footer id="footer" class="col-full">
+
+		<div style="margin-top:-10px; margin-left:700px;">Website created by <a href="http://www.mariongolin.com" target="_blank">Marion Golin
+</a>and <a href="http://ellesdesignstudio.com" target="_blank">Elles Design Studio</a></div>
+		<div id="copyright" class="col-left">
+			<p><p></p></p>		</div>
+
+		<div id="credit" class="col-right">
+			<p><p></p></p>		</div>
+
+	</footer>
+
+	
+	</div><!-- /#inner-wrapper -->
+
+</div><!-- /#wrapper -->
+
+<div class="fix"></div><!--/.fix-->
+
+<script type='text/javascript' src='http://nurturingmindsinafrica.org/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.36.0-2013.06.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/nurturingmindsinafrica.org\/wordpress\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nurturingmindsinafrica.org/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201339'></script>
+</body>
+</html>
+<!-- Dynamic page generated in 1.145 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-09-23 19:56:07 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

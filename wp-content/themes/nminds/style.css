@@ -1,0 +1,466 @@
+/*
+Theme Name:     nminds
+Description:    Child Theme of Canvas for Nurturing Minds
+Author:         marion
+Template:       canvas
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../canvas/style.css");
+
+/****************** Main Navigation *******************************/
+
+/* remove top menu */
+#top .nav {
+    display:none;
+}
+
+
+/* shift menus text to the right */
+#navigation .menus {
+    margin-left:30px;
+}
+
+
+#navigation {
+    border-width:0px !important;
+}
+
+/* determine color of parent menu item */
+
+/* #navigation .current_page_parent, .current-menu-parent a {
+    color:#50006f !important;
+} */
+
+.sub-menu {
+ box-shadow: 0px 2px 2px 1px #b8b7b2 !important;
+}
+
+/* reposition logo image */
+#logo {
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+/* remove arrows in main menu indicating sub-menu */
+#navigation .nav li.parent > a:after {display: none !important;}
+#navigation .nav li.parent > a {padding-right: 15px;}
+
+/******************* Slider *********************************/
+/* move slider up */
+.business #loopedSlider {
+    margin-top:-2px !important;
+    background-color:#000000;
+}
+
+
+/* this fixed a bug that caused the slider to be 101% - not sure why */
+.two-col-right-1020 #main-sidebar-container {
+    width: 100% !important;
+}
+
+/* set size of text content block on slider */
+.business #loopedSlider .content { 
+    background-color: #F8E171;
+    margin-left: 649px;
+    margin-top: 80px;
+   width: 328px;
+    opacity:0.8;
+}
+#slide-3214 .content { 
+    background-color: #F8E171;
+    margin-left: 649px;
+    margin-top: 80px;
+   width: 328px;
+    opacity:0.8;
+	display:none;
+}
+
+/* set background for video slide 
+#slide-139 {
+    background-image:url("http://nurturingmindsinafrica.org/wordpress/wp-content/uploads/2013/08/video-slide-background.png");
+    height:378px;
+} */
+
+/* indent headline */
+.business #loopedSlider h1 {
+        padding-left:15px !important;
+        padding-right:5px;
+    }
+
+/* set styles for text in slider */
+.business #loopedSlider .content p { 
+    color:#50006f !important;
+    background-color:#f8e171;
+    font-size:15px !important;
+}
+
+/* set styles for text in slider */
+.business #loopedSlider h1 { 
+    color:#50006f !important;
+    font-size:35px;
+}
+
+/* move slider dot controls up */
+.flex-control-nav  {
+    margin-top:-25px !important;
+}
+
+/* change color of slider dot controls to white */
+.flex-control-nav li a {
+    background-color:#ffffff;
+}
+
+/* change color of slider dot hover to orange */
+.flex-control-nav li a:hover {
+    background-color:#ee7216;
+}
+
+/* change color of slider dot active slide to orange */
+.flex-control-nav .flex-active a {
+    background-color:#ee7216;
+}
+
+
+/***************************** main page area ************************************/
+
+/* set background color for homepage and three special pages */
+body.home #content, .page-id-170 #content, .page-id-33 #content, .page-id-182 #content {
+    background-color:#f8e171;
+}
+
+/* set background color of all other pages */
+#content {
+    background-color:#fbeda8;
+    padding-bottom:0px;
+}
+
+/* add a margin on main content on all pages */
+#main {
+    margin-right:60px;
+}
+
+/* set column width on homepage */
+body.home #main {
+    width:570px !important;
+    margin-right:90px;
+}
+
+/* adjust size and position of main content area */
+#main {
+    width:680px !important;
+    margin-right:60px;
+     margin-top:30px;    
+}
+
+
+/* for all pages move content up to touch menu */
+#content {
+    margin-top: 0px;
+}
+
+/*********************** Page Styling ************************/
+#main .page .title {
+    font-family:"Architects Daughter", Helvetica,sans-serif !important;
+    font-size:40px !important;
+}
+
+#main .page h1 {
+   font-family:"Architects Daughter", Helvetica,sans-serif !important;
+    font-size:29px !important; 
+}
+/*
+#main .page h2 {
+    font-family:"Helvetica Neue",Helvetica,sans-serif !important;
+    font-size:20px !important;
+    font-weight:bold !important;
+    color:#ee7216;
+}*/
+/*
+#main .page h3 {
+    font-family:"Helvetica Neue",Helvetica,sans-serif !important;
+    font-size:15px !important;
+    font-weight:bold !important;
+    color:#50006f;
+}*/
+/****************************** Side Bars ***********************************/
+
+/* move sidebar content down and right and set width */
+#main-sidebar-container #sidebar {
+    margin-top:45px !important; 
+    margin-left:20px;
+    width:200px !important;
+} 
+
+/* sidebar on homepage is wider than other pages and no left margin and has smaller top margin */
+body.home #main-sidebar-container #sidebar {
+     width:250px !important;
+     margin-left:0px;
+     margin-top:30px !important;
+}
+
+.testimonials-widget-testimonial blockquote {
+padding-left: 6px;
+}
+
+/************* sidebar menus *************************/
+
+/* heading for sidebar menus */
+#nav_menu-13 h3, #nav_menu-4 h3, #nav_menu-5 h3, #nav_menu-7 h3, #nav_menu-8 h3, #nav_menu-11 h3 {
+    font-family:"Helvetica Neue",Helvetica,sans-serif !important;
+    font-size:12px;
+    color:#939598;
+    font-weight:bold;
+}
+
+/* text of sidebar menus */
+#nav_menu-13 a, #nav_menu-4 a, #nav_menu-5 a, #nav_menu-7 a, #nav_menu-8 a, #nav_menu-11 a {
+    font-family:"Helvetica Neue",Helvetica,sans-serif !important;
+    font-size:12px;
+    color:#564b44;
+    font-weight:bold;
+}
+
+/* text of sidebar menu selected item */
+#nav_menu-13 .current_page_item, #nav_menu-13 .current_page_item a, #nav_menu-4 .current_page_item, #nav_menu-4 .current_page_item a,
+#nav_menu-5 .current_page_item, #nav_menu-5 .current_page_item a, #nav_menu-7 .current_page_item, #nav_menu-7 .current_page_item a,
+#nav_menu-8 .current_page_item, #nav_menu-8 .current_page_item a {
+    color:#ee7216 !important;   
+}
+
+#menu-blog-menu .current-menu-item, #menu-blog-menu .current-menu-item a {
+      color:#ee7216 !important; 
+}
+
+
+/****************** Posts ******************************************/
+/* set the height for the heading "Headlines" on the homepage */
+.post-35 {
+    height:45px;
+}
+
+/* reduce space between posts */
+.post {
+    margin-bottom:30px;
+}
+
+/* move continue-reading up some and float right */
+.post-more {
+    margin-top:-10px;
+    float:right;
+    margin-right:10px;
+    margin-bottom:10px;
+}
+
+/* reduce margin below post meta info */
+.post-meta {
+    margin-bottom:10px;
+}
+
+/* set spacing of post list on homepage */
+body.home .post {
+    margin-bottom:20px;
+    margin-top:25px
+}
+
+body.home .post-more {
+    margin-top:-20px;
+    margin-bottom:20px;
+}
+
+/* don't display meta data of posts on homepage */
+body.home .post-meta {
+    display:none;
+}
+
+/* reduce space after blog entry text on home page */
+body.home .entry p {
+    margin-bottom:5px;
+}
+    
+/* set styling for title on single post page */
+#main .post  h1 {
+    font-family:"Architects Daughter", Helvetica,sans-serif !important; 
+    font-size:29px !important; 
+    margin-bottom:5px;
+}
+
+/* don't display the links to next and previous posts on single post pages */
+.post-entries {
+    display:none;
+}
+
+/* set color of background of pagination numbers on post pages */
+.woo-pagination a:link, .woo-pagination a:visited, .woo-pagination a:active {
+    background-color:#fbeda8;
+}
+
+/* set color of background of pagination numbers on post pages */
+.woo-pagination .current  {
+    background-color:#fbf5d8 !important;
+}
+
+
+
+/********************** Join our mailing list ******************************/
+
+/* set font size and color of join our mailing list widget */
+#black-studio-tinymce-7 h3, #black-studio-tinymce-8 h3, #black-studio-tinymce-9 h3, #black-studio-tinymce-10 h3,
+#black-studio-tinymce-11 h3, #black-studio-tinymce-12 h3, #black-studio-tinymce-13 h3 {
+    font-family:'Architects Daughter', arial, sans-serif;
+    color: rgb(80, 0, 111);
+    font-size:23px;
+    font-weight:normal;
+}
+
+/* set spacing of rows in join our mailing list widget */
+#black-studio-tinymce-7 p, #black-studio-tinymce-8 p, #black-studio-tinymce-9 p, #black-studio-tinymce-10 p,
+#black-studio-tinymce-11 p, #black-studio-tinymce-12 p, #black-studio-tinymce-13 p {
+    margin-bottom:0px;
+}
+
+/* borders for "contact form 7" messages */
+div.wpcf7-validation-errors {
+    border-color:  #ee7216 !important;
+}
+
+div.wpcf7-mail-sent-ok {
+    border-color:  #50006f !important;
+}
+
+/**************** Footer ******************************/
+
+
+/* remove woothemes credit from footer */
+#credit {
+    display:none !important;
+}
+/* set background color and size of footer widget area */
+#footer-widgets {
+  background-color:#fbeda8; 
+  padding-left:40px;
+  padding-right:20px;
+  width:960px;
+  height:230px;'
+  border-top-style:solid;
+  border-top-width:1px;
+  border-top-color:#ee7216;
+}
+
+#footer-widgets .block {
+    padding-top: 10px;
+   
+}
+
+/* set font styles of footer widget headers */
+
+#footer-widgets .widget h3 {
+    color:#50006f;
+    font-family: "Helvetica Neue",Helvetica,sans-serif;
+    font-size:11.5px;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+
+/* set font styles of footer widget content */
+#footer-widgets .textwidget, #footer-widgets .textwidget p {
+     font-family: "Helvetica Neue",Helvetica,sans-serif;
+    font-size:11px;
+    font-weight:normal;  
+}
+
+
+/* set background color for footer below footer-widgets */
+#footer {
+    padding-right:20px;
+    padding-left:10px;
+    background-color:#ffffff;
+    width:990px;
+}
+
+/* set size each of the four footer widgets */
+#footer-widgets .block {
+    margin-right:0px;
+}
+#footer-widgets .block.footer-widget-1 {
+    width:150px !important;
+}
+#footer-widgets .block.footer-widget-2 {
+    width:335px !important;
+}
+#footer-widgets .block.footer-widget-3 {
+    width:200px !important;
+}
+
+#footer-widgets .block.footer-widget-4 {
+    width:100px !important;
+}
+#black-studio-tinymce-2 {
+    width:200px;
+}
+
+#black-studio-tinymce-2 p {
+    margin-bottom:0px;
+}
+
+/****************** Contact Form *****************************/
+
+.page-template-template-contact-php .location-twitter {
+    border:none;
+}
+
+/******************** Three Special Pages ****************************/
+
+/****************** Who We Are (33) Impact (170) How To Help (182) ***********/
+
+/* style the text and image buttons */
+.page-id-170 .entry .wp-caption, .page-id-33 .entry .wp-caption, .page-id-182 .entry .wp-caption {
+    background-color:#f8e171;
+    border-color:#f8e171;
+    box-shadow:none;
+    margin-right:70px;
+    height:275px;
+}
+
+/* style the text under the image buttons */
+.page-id-170 .entry .wp-caption-text, .page-id-33 .entry .wp-caption-text, .page-id-182 .entry .wp-caption-text {
+    text-align:left;
+    padding:5px;
+}
+
+/* style headings */
+.page-id-170 h2, .page-id-33 h2, .page-id-182 h2 {
+   color:#50006f;
+   font-size:20px;
+}
+
+/* remove page title */
+.page-id-170 .title, .page-id-33 .title, .page-id-182 .title {
+    display:none;
+}
+
+
+/* Classes added to wysiwyg editor - also found in editor-style.css */
+.purple {
+    color:#50006f;
+}
+
+.orange {
+    color:#ee7216;
+}
+
+.staffname {
+    font-size: 16px; 
+    color: #50006f; 
+    font-weight: bold;
+}
+
+/* remove white border from images and top margin */
+.alignleft {
+    margin:0px 15px 15px 0px;
+}
+
+.entry img, img.thumbnail {
+    padding:0px !important;
+}

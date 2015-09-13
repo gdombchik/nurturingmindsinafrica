@@ -1,0 +1,6 @@
+[07-Nov-2013 23:13:03] PHP Fatal error:  Call to undefined function  get_option() in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/tumblog/theme-tumblog.php on line 22
+[07-Nov-2013 23:13:10] PHP Fatal error:  Call to undefined function  get_option() in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/tumblog/theme-custom-post-types.php on line 76
+[11-Feb-2014 21:53:51] PHP Fatal error:  Call to undefined function  get_option() in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/tumblog/theme-tumblog.php on line 22
+[11-Feb-2014 21:53:57] PHP Fatal error:  Call to undefined function  get_option() in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/tumblog/theme-custom-post-types.php on line 76
+[03-Jul-2014 16:11:36 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/tumblog/theme-tumblog.php on line 22
+[03-Jul-2014 16:11:41 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home3/seganm/public_html/wordpress/wp-content/themes/canvas/includes/tumblog/theme-custom-post-types.php on line 76
